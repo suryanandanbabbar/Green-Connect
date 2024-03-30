@@ -1,0 +1,13 @@
+certifi
+django
+gunicorn
+idna
+jmespath
+psycopg2
+python-dateutil
+requests
+s3transfer
+six
+tzdata
+urllib3
+whitenoise
