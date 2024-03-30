@@ -123,7 +123,7 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS = [
     BASE_DIR / 'static'
 ]
-# STATIC_ROOT = 
+STATIC_ROOT = '/home/greenc/Green-Connect'
 
 
 # Default primary key field type
